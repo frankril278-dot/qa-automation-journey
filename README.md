@@ -33,3 +33,20 @@ Convertirme en un profesional de QA, dominando tanto la teoría como la práctic
 
 ## 📂 Estructura del repositorio
 
+QA-Automation-Journey/
+│
+├─ README.md
+├─ /docs
+│ └─ referencias.md
+├─ /tests
+│ └─ casos-prueba.md
+└─ /automation
+└─ scripts-iniciales/
+
+
+## 🔗 Recursos de referencia
+- [Tipos de pruebas](https://www.guru99.com/software-testing.html)
+- [Buenas prácticas para documentación de bugs](https://www.softwaretestinghelp.com/bug-report-template/)
+- [Git Documentation](https://git-scm.com/doc)
+
+
